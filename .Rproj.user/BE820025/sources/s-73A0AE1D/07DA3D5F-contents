@@ -3,3 +3,7 @@
 # rata-rata perbedaan gaji
 penghasilan <- rnorm(1000, 3000000, 250000)
 hist(penghasilan)
+
+# memasukkan 1 orang berpenghasilan 7juta
+baru <- 7000000
+penghasilan.baru <- append(penghasilan, baru)
