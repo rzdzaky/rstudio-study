@@ -1,0 +1,4 @@
+# penghasilan satu kecamatan
+# jumlah orang, rata penghasilan, standar deviasi 
+# rata-rata perbedaan gaji
+penghasilan <- rnorm(1000, 3000000, 250000)
